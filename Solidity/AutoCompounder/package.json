@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/joao-neves95/Qapo.DeFi.Contracts.git"
+    "url": "git+https://github.com/jo-neves/Qapo.DeFi.Contracts.git"
   },
   "author": "SHIVAYL",
   "license": "AGPL-3.0-or-later",
   "bugs": {
-    "url": "https://github.com/joao-neves95/Qapo.DeFi.Contracts/issues"
+    "url": "https://github.com/jo-neves/Qapo.DeFi.Contracts/issues"
   },
-  "homepage": "https://github.com/joao-neves95/Qapo.DeFi.Contracts#readme",
+  "homepage": "https://github.com/jo-neves/Qapo.DeFi.Contracts#readme",
   "dependencies": {
     "truffle": "^5.4.24"
   }

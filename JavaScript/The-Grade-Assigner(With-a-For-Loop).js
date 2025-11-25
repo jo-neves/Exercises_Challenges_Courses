@@ -2,7 +2,7 @@
 The Grade Assigner (With a For Loop)
 
 Check the results of your assignGrade function from the conditionals exercise
-(https://github.com/joao-neves95/Exercises_Challenges/blob/master/JavaScript/The-Grade-Assigner(if_else).js)
+(https://github.com/jo-neves/Exercises_Challenges/blob/master/JavaScript/The-Grade-Assigner(if_else).js)
 by logging every value from 60 to 100: your log should show "For 88, you got a B. For 89, you got a B.
 For 90, you got an A. For 91, you got an A.", etc., logging each grade point in the range.
 

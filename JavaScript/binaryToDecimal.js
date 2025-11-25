@@ -3,7 +3,7 @@
 ------------------------------ THIS IS ALL HORRIBLE ------------------------------
 
 This is a continuation of decimalToBinary().
-https://github.com/joao-neves95/Exercises_Challenges/blob/master/JavaScript/decimalToBinary.js
+https://github.com/jo-neves/Exercises_Challenges/blob/master/JavaScript/decimalToBinary.js
 
 It converts binary base numbers into decimal base ones.
 

@@ -141,7 +141,7 @@ These are just some. You should try different and new tricks and see what works 
 
 By: João Pedro Martins Neves (SHIVAYL)
 
-https://github.com/joao-neves95/
+https://github.com/jo-neves/
 
 &nbsp;
 

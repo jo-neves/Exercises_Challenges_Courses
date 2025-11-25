@@ -3,7 +3,7 @@
   Copyright (c) 2018 João Pedro Martins Neves <joao95neves@gmail.com> - All Rights Reserved
   Written by João Pedro Martins Neves <joao95neves@gmail.com>
 
-  https://github.com/joao-neves95/Exercises_Challenges_Courses/blob/master/JavaScript/Collections.js
+  https://github.com/jo-neves/Exercises_Challenges_Courses/blob/master/JavaScript/Collections.js
 
 
 

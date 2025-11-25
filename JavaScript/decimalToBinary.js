@@ -3,7 +3,7 @@
 ------------------------------ THIS IS ALL HORRIBLE ------------------------------
 
 binaryToDecimal():
-https://github.com/joao-neves95/Exercises_Challenges/blob/master/JavaScript/binaryToDecimal.js
+https://github.com/jo-neves/Exercises_Challenges/blob/master/JavaScript/binaryToDecimal.js
 
 */
 

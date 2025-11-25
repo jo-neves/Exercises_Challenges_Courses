@@ -25,7 +25,7 @@ Example output:
 
 ```
 {
-  "originalUrl": "https://github.com/joao-neves95/freeCodeCamp",
+  "originalUrl": "https://github.com/jo-neves/freeCodeCamp",
   "shortUrl": "https://xs-url.glitch.me/5f0ac507",
   "info": {
     "posterIP": "11.111.111.111",
